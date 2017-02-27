@@ -9,6 +9,9 @@ Clone/download the repo and run `npm install` to get the environment setup. Then
 
 Run `npm run watch` to run the webpack directions to watch for file changes and transpile any changes seen.
 
-### Credit for this repo goes to Ryan Chenkie and his full post [here]: https://auth0.com/blog/create-a-desktop-app-with-angular-2-and-electron/ Excellent write up and great instructions, thank you!
 
-### For more info on webpack, see this great post: [here]: https://www.smashingmagazine.com/2017/02/a-detailed-introduction-to-webpack/
+
+
+##### Credit for this repo goes to Ryan Chenkie and his full post [here](https://auth0.com/blog/create-a-desktop-app-with-angular-2-and-electron/) Excellent write up and great instructions, thank you!
+
+##### For more info on webpack, see this great post: [here](https://www.smashingmagazine.com/2017/02/a-detailed-introduction-to-webpack/)
